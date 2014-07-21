@@ -1,0 +1,5 @@
+FortyFiftyOne 	KEYWORD1
+analogRead		KEYWORD2
+analogWrite		KEYWORD3
+digitalRead		KEYWORD4
+digitalWrite	KEYWORD5
